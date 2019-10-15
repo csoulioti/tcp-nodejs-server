@@ -1,0 +1,24 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "tcp-nodejs-app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csoulioti/tcp-nodejs-server.git"
+  },
+  "keywords": [
+    "tcp",
+    "server",
+    "nodejs"
+  ],
+  "author": "csoulioti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csoulioti/tcp-nodejs-server/issues"
+  },
+  "homepage": "https://github.com/csoulioti/tcp-nodejs-server#readme"
+}
